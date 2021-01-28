@@ -7,12 +7,12 @@ A startup called Sparkify wants to analyze the data they've been collecting on s
 They'd like a data engineer to create an Apache Cassandra database which can create queries on song play data to answer the questions, and wish to bring you on the project. Your role is to create a database for this analysis. You'll be able to test your database by running queries given to you by the analytics team from Sparkify to create the results.
 
 ## Project Overview
-In this project, I have applied what I've learned on data modeling with Apache Cassandra and complete an ETL pipeline using Python. To complete the project, I will performing and demonstrating the following skillsets
-* Non-relational Data Modeling by creating tables in Apache Cassandra to run analytical queries
-* Desing and create an ETL pipeline that transfers data from a set of CSV files within a directory to create a streamlined CSV file to model
+In this project, I have applied what I've learned on data modeling with Apache Cassandra and complete an ETL pipeline using Python. To complete the project, I will be demonstrating following skillsets
+* Non-relational Data Modeling in Apache Cassandra to run analytical queries
+* Desing and create ETL pipelines to transfer data from a set of CSV files within a directory to create a streamlined CSV file to model
 * Load extracted data into Apache Cassandra tables
 
-### Poject Highlight
+### Project Highlights
 - Basics of Distributed Database Design
 - Must know your queries and model the tables to your queries
 - Importance of Denormalization
